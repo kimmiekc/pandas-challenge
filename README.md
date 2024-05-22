@@ -2,7 +2,7 @@
 
 ## Note:
 Completed PyCitySchool code is located "/PyCitySchools/CityNotebook.ipynb" <br>
-Summary Analysis is located "/PyCitySchools/school_analysis.txt"
+Summary Analysis is located "/PyCitySchools/school_analysis.txt" <br>
 CSV Files, and starter file is located "/PyCitySchools/Resources"
 
 ## Background 
