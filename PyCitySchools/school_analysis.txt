@@ -1,0 +1,193 @@
+PyCitySchool Analysis
+
+Summary:
+
+District Summary - 
+- There is a total of 15 schools in the district, with a total of 39,170 students.
+- Total Budget for all schools is $24,649,428.00
+- The average math score across all schools is approximately 78.99%.
+- The average reading score across all schools is approcimately 81.88%.
+- About 74.98% of students passed math across all schools.
+- About 85.81% of students passed reading across all schools.
+- The overall passing rate is approcimately 65.17%
+
+School Summary - 
+- This dataset includes both district and charter schools.
+- The total number of students varies across schools. Ranging from 427 to 4,976.
+	The school with the largest number of students is Bailey High School (District)
+	The school with the lowest number of students is Holden High School (Charter)
+- The budget allocated to each school varies, with the highest being $3.1m and the lowest, $250k.
+	The school with the highest budget is Bailey High School. (District)
+	The school with the lowest budget is Holden Highschool. (Charter)
+- The range for per student budget varies, with the highest being $655.00 and the lowest, $578.00. 
+	The school with the highest per student budget is Huang High School (Disctrict)
+	The school with the lowest budget is Wilson High School.(Charter)
+- The average math scores for each school range from about 76.63% to 83.84%
+	The school with the highest average math scores is Holden High School (Charter)
+	The school with the lowest average math scores is Huang High School (Disctrict)
+- The average reading scores for each school ranges from about 80.74% to 84.04%
+	The school with the highest average reading scores is Pena High School (Charter)
+	The school with the lowest average reading scores is Rodrigues High School (District)
+- The percentage of students passing math ranges from about 94.59% to 65.68%
+	The school with the highest percent of students passing math is Cabrera High School (Charter)
+	The school with the lowest percent of students passing math is Rodriguez High School (District)
+- The percentage of students passing reading ranges from about 97.04% to 79.30%
+	The school with the highest percent of students passing reading is Cabrera High School (Charter)
+	The school with the lowest percent of students passing reading is Rodriguez High School (District)
+- The overall passing percentage (includes both reading and math) ranges from about 91.33% to 52.99%
+	The school with the highest overall passing rate is Cabrera High School (Charter)
+	The school with the lowest overall passing rate is Rodriguez High School (District)
+
+Highest-Performing Schools (by % Overall Passing) *top 5* - 
+- The highest performing schools are all charter schools.
+- The budget for the top 5 highest performing schools ranges from $1.3m to $585k.
+- The average math scores vary from about 83.06% to 83.84%
+- The average reading scores vary from about 84.04% to 83.82%
+- The percentage of students passing math varies from about 94.59% to 93.27%
+- The percentage of students passing reading varies from about 97.31% to 95.95%
+- The overall passing percentage ranges from about 91.33% to 90.54%
+
+Bottom Performing Schools (by % Overall Passing) *bottom 5* - 
+- The bottom performing schools are all district schools.
+- The budget for the bottom 5 performing schools ranges from $3m to $1.8m
+- The average math scores vary from about 76.63% to 77.29%
+- The average reading scores vary from about 80.74% to 81.18%
+- The percentage of students passing math varies from about 65.68% to 66.75%
+- The percentage of students passing reading varies from about 80.22% to 81.32%
+- The overall passing percentage ranges from about 52.99% to 53.54%
+-Lowest Performers:
+	- Lowest Average Math Score: Huang High School with approximately 76.63.
+	- Lowest Average Reading Score: Rodriguez High School with approximately 80.74.
+	- Lowest % Passing Math: Figueroa High School with approximately 65.99%.
+	- Lowest % Passing Reading: Rodriguez High School with approximately 80.22%.
+	- Lowest % Overall Passing: Rodriguez High School with approximately 52.99%.
+
+Math Scores by Grade - 
+	- 9th Grade Math Scores
+		- The average math scores for 9th-grade across schools ranges from approximately 76.40% to 83.79%
+		- The Lowest math score in 9th grade is Figueroa High School with approximately 76.40%
+		- The Highest math score in 9th grade is Holden High School with approximately 83.79%
+	- 10th Grade Math Scores
+		- The average math scores for 10th-grade across schools ranges from approximately 75.91% to 84.23%
+		- The Lowest math scores in 10th grade is Huang High School with approximately 75.91%
+		- The Highest math scores in 10th grade is Griffin High School with approximately 84.23%
+	- 11th Grade Math Scores
+		- The average math scores for 11th grade across schools ranges from approximately 76.40% to 85.00%
+		- The Lowest math scores in 11th grade is Rodriguez High School with approximately 76.40%
+		- The Highest math scores in 11th grade is Holden High School with approximately 85.00%
+	- 12th Grade Math Scores
+		- The average math scores for 12th grade across schools ranges from approximately 76.18% to 84.12%
+		- The Lowest math scores in 12th grade is Ford High School with approximately 76.18%
+		- The Highest math scores in 12th grade is Pena High School with approximately 84.12%
+
+Reading Scores by Grade - 
+	- 9th Grade Reading Scores
+		- The average reading scores for 9th-grade across schools ranges from approximately 80.63% to 84.12%
+		- The Lowest reading score in 9th grade is Ford High School with approximately 80.63%
+		- The Highest reading score in 9th grade is Shelton High School with approximately 84.12%
+	- 10th Grade Reading Scores
+		- The average reading scores for 10th-grade across schools ranges from approximately 80.66% to 84.25%
+		- The Lowest reading score in 10th grade is Ford High School with approximately 80.66%
+		- The Highest reading score in 10th grade is Cabrera High School with approximately 84.25%
+	- 11th Grade Reading Scores
+		- The average reading scores for 11th-grade across schools ranges from approximately 80.40% to 84.37%
+		- The Lowest reading score in 11th grade is Ford High School with approximately 80.40%
+		- The Highest reading score in 11th grade is Shelton High School with approximately 84.37%
+	- 12th Grade Reading Scores
+		- The average reading scores for 12th-grade across schools ranges from approximately 80.31% to 84.70%
+		- The Lowest reading score in 12th grade is Huang High School with approximately 80.31%
+		- The Highest reading score in 12th grade is Holden High School with approximately 84.70%
+
+Scores by School Spending -
+- Schools with a lower student budget tend to have higher average math and reading scores, higher percent passing both math and reading, and a higher overall passing rate compared to schools with higher per student budgets.
+- Average Math and Reading Scores
+	- Highest Performing Schools:
+		<$585: Cabrera High School
+		$585-630: Holden High School
+		$630-645: Wright High School
+		$645-680: Rodriguez High School
+	- Lowest Performing Schools:
+		<$585: Wilson High School
+		$585-630: Pena High School
+		$630-645: Thomas High School
+		$645-680: Hernandez High School
+
+- Percent Passing Math and Reading
+	- Highest Percentage Passing Schools:
+		<$585: Cabrera High School
+		$585-630: Holden High School
+		$630-645: Wright High School
+		$645-680: Rodriguez High School
+	- Lowest Percentage Passing Schools:
+		<$585: Wilson High School
+		$585-630: Pena High School
+		$630-645: Thomas High School
+		$645-680: Hernandez High School
+
+- Overall Passing 
+	- Highest Overall Passing Schools:
+		<$585: Cabrera High School
+		$585-630: Holden High School
+		$630-645: Wright High School
+		$645-680: Rodriguez High School
+	- Lowest Overall Passing Schools:
+		<$585: Wilson High School
+		$585-630: Pena High School
+		$630-645: Thomas High School
+		$645-680: Hernandez High School
+
+Scores by School Size - 
+- Schools with smaller student populations tend to have higher average scores, higher percent passing both math and reading, and a higher overall passing rate  compared to larger populated schools.
+- Average Math and Reading Scores
+	- Highest Performing Schools:
+		Small: Holden High School
+		Medium: Cabrera High School
+		Large: Wilson High School
+	- Lowest Performing Schools:
+		Small: Pena High School
+		Medium: Wright High School
+		Large: Huang High School
+- Percent Passing Math and Reading
+	- Highest Percentage Passing Schools:
+		Small: Holden High School
+		Medium: Cabrera High School
+		Large: Wilson High School
+	- Lowest Percentage Passing Schools:
+		Small: Pena High School
+		Medium: Wright High School
+		Large: Huang High School
+- Overall Passing
+	- Highest Overall Passing Schools:
+		Small: Holden High School
+		Medium: Cabrera High School
+		Large: Wilson High School
+	- Lowest Overall Passing Schools:
+		Small: Pena High School
+		Medium: Wright High School
+		Large: Huang High School
+
+Scores by School Type - 
+- Charter schools consistently outperform district schools across ALL metrics.
+- Average Math and Reading Scores
+	Charter Schools: Average Math Score - 83.47%, Average Reading Score - 83.90%
+	District Schools: Average Math Score - 76.96%, Average Reading Score - 80.97%
+- Percent Passing Math and Reading
+	Charter Schools: % Passing Math - 93.62%, % Passing Reading - 96.59%
+	District Schools: % Passing Math - 66.55%, % Passing Reading - 80.80%
+- Overall Passing
+	Charter Schools: Overall Passing Percentage - 90.43%
+	District Schools: Overall Passing Percentage - 53.67%
+
+Conclusions - 
+- Charter schools tend to outperform district schools in across all metrics by about 37%.
+- Schools with smaller budgets per student do not necessarily perform poorly compared to those with larger budgets.
+- Reading scores tend to be higher than math scores across all schools.
+- The allocation of resources/budget does not guarantee higher academic performance, as shown by the lackluster performance of some schools with higher budgets.
+	- Lower spending yields the best outcome in grade and overall passing.
+- Charter schools, despite often having lower budgets, achieve higher passing rates and average scores than district schools.
+- There is a slight decline in academic performance from 9th to 12th grade, especially in math.
+- 10th-grade performance peaks before a gradual decline in subsequent grades.
+- Some schools consistently perform well across all metrics, while others consistently underperform.
+- Larger schools have a near 30% lower overall passing rate than medium and small school sizes.
+
+
