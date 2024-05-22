@@ -1,9 +1,9 @@
 # Module 4 Pandas-challenge # <br>
 
 ## Note:
-Completed PyCitySchool code is located "/PyCitySchools/CityNotebook.ipynb" <br>
-Summary Analysis is located "/PyCitySchools/school_analysis.txt" <br>
-CSV Files, and starter file is located "/PyCitySchools/Resources"
+Completed PyCitySchool code is located: "/PyCitySchools/CityNotebook.ipynb" <br>
+Summary Analysis is located: "/PyCitySchools/school_analysis.txt" <br>
+CSV Files, and starter file is located: "/PyCitySchools/Resources"
 
 ## Background 
 You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities. <br><br>
